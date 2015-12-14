@@ -44,5 +44,6 @@
             "title":"Author URL"
         }
     ],
+    "icon": "bitbucket",
     "title": "Bitbucket Get Pull Request Comments" /* Required.A display name for the module */
 }
