@@ -63,9 +63,9 @@ module.exports = _.merge({
              */
             input: {
                 //Replace VAR1 with the name of an expected input, and add more inputs as needed.
+                id: '1',
                 owner: 'owner',
-                repo_slug: 'dexter-twitter-follow',
-                id: '1'
+                repo_slug: 'dexter-twitter-follow'
             }
         }
     }
