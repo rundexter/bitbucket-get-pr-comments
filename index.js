@@ -9,9 +9,7 @@ var pickInputs = {
         'id': { key: 'id', validate: { req: true } },
         'owner': { key: 'owner', validate: { req: true } },
         'repo_slug': { key: 'repo_slug', validate: { req: true } },
-        'branchortag': 'branchortag',
-        'include': 'include',
-        'exclude': 'exclude'
+        'state': 'state'
     },
     pickOutputs = {
         '-': {
